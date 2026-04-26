@@ -1,1 +1,1 @@
-<a href="/tax-calculator.php">Open tax calculator</a>
+<a href="/tax_calculator.php">Open tax calculator</a>
